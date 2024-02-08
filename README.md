@@ -9,7 +9,7 @@
 | 2.| [Определение наличия товаров]() | Построить модель без использования оценки вероятности отсутствия товара на полке, представленной в витрине данных, с оценкой производительности по метрике AUC-ROC. | _pandas_, _seaborn_, _sklearn_, _CatBoost_, _XGBoost_, _LightGBM_, _SQL_ |
 | 3.| [Прогноз покупки клиентом оборудования]() | Разработать модель склонности к покупке клиентом оборудования после коммуникации с ним в одном из каналов. | _numpy_, _pandas_, _seaborn_, _sklearn_, _CatBoost_, _LightGBM_ |
 | 4.| [Прогнозирование оттока клиентов телеком компании]() | На основе данных оператора связи научиться прогнозировать отток клиентов. | _python_, _pandas_, _matplotlib_, _sklearn_, _CatBoost_, _LightGBM_ |
-| 5.| [Обработка фотографий покупателя]() | Определение возраста по фотографии. | _python_, _Keras_ |
+| 5.| [Обработка фотографий покупателя](https://github.com/OlgaVish/Portfolio/tree/main/Determining_age_from_photo) | Определение возраста по фотографии. | _python_, _Keras_ |
 | 6.| [Анализ комментариев пользователей](https://github.com/OlgaVish/Portfolio/tree/main/Classification_of_user_comments) | Определение токсичности комментариев. | _python_, _pandas_, _BERT_, _nltk_, _tf-idf_ |
 | 7.| [Прогнозирование количества заказов такси](https://github.com/OlgaVish/Portfolio/tree/main/Taxi_order_forecast) | Разработка системы предсказания объема заказа. | _python_, _pandas_, _sklearn_, _statsmodels_, _Ridge_, _CatBoost_, _LightGBM_ |
 | 8.| [Исследование технологического процесса очистки золота](https://github.com/OlgaVish/Portfolio/tree/main/Predict_gold_recovery_rate) | Спрогнозировать концентрацию золота при проведении процесса очистки золота. | _python_, _pandas_, _matplotlib_, _numpy_, _sklearn_ |
