@@ -9,7 +9,7 @@
 
 # Библиотеки
 
-_pandas_, _matplotlib_, _seaborn_, _sklearn_, _bootstrap_
+_pandas_, _matplotlib_, _seaborn_, _sklearn_
 
 # Выводы
 
