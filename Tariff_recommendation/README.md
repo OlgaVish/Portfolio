@@ -9,7 +9,7 @@
 
 # Библиотеки
 
-_python_, _pandas_, _matplotlib_, _sklearn_, _scipy_
+_python_, _pandas_, _matplotlib_, _sklearn_
 
 # Выводы
 
