@@ -9,7 +9,7 @@
 
 # Библиотеки
 
-_numpy_, _pandas_, _matplotlib_, _seaborn_, _sklearn_
+_numpy_, _pandas_, _matplotlib_, _seaborn_, _sklearn_, _CatBoost_, _XGBoost_, _LightGBM_
 
 # Выводы
 
