@@ -12,7 +12,7 @@
 
 # Библиотеки
 
-_pandas_, _seaborn_, _sklearn_, _pyodbc_, _ydata_profiling_
+_pandas_, _seaborn_, _sklearn_, _pyodbc_, _ydata_profiling_, _LightGBM_
 
 # Выводы
 
