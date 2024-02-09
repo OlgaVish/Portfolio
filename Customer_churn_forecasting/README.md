@@ -9,7 +9,7 @@
 
 # Библиотеки
 
-_pandas_, _matplotlib_, _seaborn_, _sweetviz_, _phik_, _sklearn_, 
+_pandas_, _matplotlib_, _seaborn_, _sweetviz_, _phik_, _sklearn_, _catboost_, _lightgbm_
 
 # Выводы
 
