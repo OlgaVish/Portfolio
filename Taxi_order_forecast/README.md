@@ -9,7 +9,7 @@
 
 # Библиотеки
 
-_pandas_, _sklearn_
+_pandas_, _seaborn_, _sklearn_, _statsmodels_
 
 # Выводы
 
